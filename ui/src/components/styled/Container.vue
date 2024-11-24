@@ -1,0 +1,6 @@
+<template>
+    <div class="fixed top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 text-white bg-zinc-800 p-8 rounded-lg">
+        <slot></slot>
+    </div>
+</template>
+<script setup lang="ts"></script>
